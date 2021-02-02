@@ -30,7 +30,8 @@ h5 {
   @include semiboldText;
 }
 
-input {
+input,
+textarea {
   font-family: "Sharp Sans No2", sans-serif;
   font-size: 18px;
 }
